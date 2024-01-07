@@ -45,7 +45,8 @@
         "Asset": "संपत्ति",
         "MyAssets": "मेरे ऐसेट",
         "LogOut": "लॉग आउट"
-      }
+      },
+    "Fundraiser": "p5.js और प्रोसेसिंग फ़ाउंडेशन का समर्थन करें!"
     },
     "CodemirrorFindAndReplace": {
       "ToggleReplace": "टॉगल बदली करें",
@@ -353,8 +354,7 @@
       "Description": "साइन अप",
       "Or": "या",
       "AlreadyHave": "पहले से ही अकाउंट है?",
-      "Login": "लॉग इन",
-      "Warning": "साइन अप करके, आप p5.js संपादक की उपयोग की <0>शर्तों</0> और <1>गोपनीयता नीति</1> से सहमत होते हैं।"
+      "Login": "लॉग इन"
     },
     "EmailVerificationView": {
       "Title": "p5.js वेब एडिटर | ईमेल वेरीफिकेशन",
